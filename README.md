@@ -1,6 +1,5 @@
 ### Hi there 👋
 ## 👯 I’m looking to collaborate on freelance project
-## 📫 How to reach me: trinhngockhang1503@gmail.com
 <!--
 **trinhngockhang/trinhngockhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
