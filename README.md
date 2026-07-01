@@ -32,7 +32,7 @@ Most of my recent work has been about **owning a feature end-to-end** — from S
 
 - 📧 [trinhngockhang1503@gmail.com](mailto:trinhngockhang1503@gmail.com)
 - 💬 Telegram: [@Dino0315](https://t.me/Dino0315)
-- 🌐 [Portfolio site](https://dinotrinh.dev) *(if published)*
+- 🌐 [Portfolio site](https://dinobuilds.xyz)
 
 ---
 
