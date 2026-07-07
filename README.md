@@ -2,7 +2,8 @@
 
 <p align="center">
   Senior Blockchain Developer · Hanoi, Vietnam · UTC+7
-
+</p>
+<p align="center">
   https://dinobuilds.xyz/
 </p>
 
